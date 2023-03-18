@@ -1,5 +1,5 @@
 import logging
-logging.basicConfig(filename='demo.log',level=logging.DEBUG)
+logging.basicConfig(filename='demo.log', level=logging.DEBUG)
 #logging.disable()
 
 
