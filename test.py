@@ -3,6 +3,8 @@ from datetime import datetime
 
 @dataclass
 class Customer:
+    """_summary_
+    """
     name : str
     phone : str
     cc_number : str
@@ -10,7 +12,10 @@ class Customer:
     cc_exp_year : int
     cc_valid : bool = False
 
-#def validate_card(customer: Customer) -> bool:
+# def validate_card(customer: Customer) -> bool:
 
 
 type(Customer)
+
+# ! Critical issue 
+# 
