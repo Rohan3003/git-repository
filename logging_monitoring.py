@@ -2,8 +2,6 @@ import logging
 
 def main() -> None:
     
-    logging.basicConfig(filename ='test_log.log',level=logging.DEBUG)
-
     logging.debug("This is a debug message for logging")
     logging.info("This is an info message for logging")
     logging.warning("This is a warning message for logging")

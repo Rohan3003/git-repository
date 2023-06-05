@@ -1,4 +1,4 @@
 {
-    "python.envFile": "${workspaceFolder}\\.databricks\\.databricks.env",
-    "databricks.python.envFile": "${workspaceFolder}/.env"
+    "python.pythonPath": "C:/Users/rohan/AppData/Local/Microsoft/WindowsApps/python.exe"
+    ]
 }
