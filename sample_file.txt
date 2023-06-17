@@ -1,0 +1,2 @@
+This is my sample txt file in current working directory.
+This file is used to test code for open() and with() in python.
