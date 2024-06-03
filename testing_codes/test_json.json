@@ -1,0 +1,12 @@
+{
+    "PERSONAL DETAILS" : {
+        "FIRST_NAME" : "Rohan",
+        "LAST_NAME" : "Srivastwa",
+        "AGE" : 28,
+        "ADDRESS" : {
+            "CITY" : "Patna",
+            "STATE" : "Bihar",
+            "PIN" : 800002           
+        }
+    }
+}

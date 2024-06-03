@@ -1,0 +1,9 @@
+collection : Capitation
+- Extract logical name : Capitation
+  Extract physical name : CAP
+  Columns:
+    
+
+- Extract logical name : Capitation Fund
+  Extract physical name : CAP_FUND
+  Columns: 

@@ -1,0 +1,7 @@
+# This a sinle line comment in YAML
+# key : value pair
+source: 'oracle' # This is an inline comment in YAML
+username: 'rohan.srivastwa'
+password: 'password'
+port name: 4422
+host_url: sqlserver.com

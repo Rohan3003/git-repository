@@ -1,0 +1,18 @@
+# this way yaml can be comment
+table: user # this is an inline commet
+constraints:
+  - columns:
+      - id
+    name : PK_User
+    type : primary
+columns:
+  - name : id
+    type : 
+      datatype: int
+      options:
+        nonnull: true
+        autoincrement: true
+  - name : email
+    type:
+      datatype: varchar
+      length: 100
