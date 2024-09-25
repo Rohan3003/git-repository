@@ -18,4 +18,6 @@ else:
         list3.append(list2[i])
 
 print(list3)
+
+# I am learning to code using this reddargonn keyboard I am trying to check whether this keyboard is good
         
