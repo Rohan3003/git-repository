@@ -15,7 +15,7 @@ def factorial(N : int):
         return N
     else:
         return N * factorial(N-1)
-    
+        
 
 fact_N = factorial(N)
 print(fact_N)

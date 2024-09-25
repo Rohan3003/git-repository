@@ -1,0 +1,25 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "Name": "Mary Poppins",
+            "City": "London",
+            "Country": "UK",
+            "Occupation": "Nanny"
+        },
+        {
+            "id": 2,
+            "Name": "Bruce Banner",
+            "City": null,
+            "Country": null,
+            "Occupation": "Scientist"
+        },
+        {
+            "id": 3,
+            "Name": "Zippy",
+            "City": null,
+            "Country": null,
+            "Occupation": "Puppet"
+        }
+    ]
+}

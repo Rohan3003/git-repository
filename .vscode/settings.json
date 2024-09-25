@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:/Users/rohan/AppData/Local/Microsoft/WindowsApps/python.exe"
+    "python.pythonPath": "C:/Users/rohan/AppData/Local/Microsoft/WindowsApps/python.exe",
+    "editor.minimap.autohide": true,
+    "editor.minimap.enabled": false
 }
