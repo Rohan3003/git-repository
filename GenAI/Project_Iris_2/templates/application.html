@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Application Page</title>
+</head>
+<body>
+<h2>Application Page</h2>
+
+<form method="POST">
+    <label for="prompt">Ask your question:</label><br/>
+    <input type="text" name="prompt" id="prompt" required><br/>
+    <input type="submit" value="Submit">
+</form>
+
+{% if prompt_response %}
+<h3>Chatbot Response:</h3>
+<p>{{ prompt_response }}</p>
+{% endif %}
+
+<a href="{{ url_for('logout') }}">Logout</a>
+
+</body>
+</html>
