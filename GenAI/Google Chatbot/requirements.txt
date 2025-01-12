@@ -1,0 +1,8 @@
+# to load environment variables from .env file
+pip install python-dotenv 
+
+# to use the Google AI Platform
+pip install google.generativeai
+
+# to create UI for the AI model using flask
+pip install flask

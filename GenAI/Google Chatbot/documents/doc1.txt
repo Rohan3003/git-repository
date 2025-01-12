@@ -1,0 +1,2 @@
+Natural Language Processing (NLP) is a branch of artificial intelligence (AI) and computer science that focuses on enabling machines to understand, interpret, and generate human language. 
+It's at the intersection of linguistics, computer science, and machine learning. Below is a detailed breakdown of what NLP entails:
