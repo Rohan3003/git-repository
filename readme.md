@@ -1,3 +1,4 @@
+<h2>Table of Contents : </h2>
 The repository consists tips and tricks with codes in python language of the following: 
 1. Data Engineering
 2. Errors in Python
